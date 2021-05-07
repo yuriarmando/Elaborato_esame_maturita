@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we are Yuri</h1>
+<h1 align="center">Hi 👋, i am  Yuri Armando</h1>
 <h3 align="center">ITIS M. DELPOZZO</h3>
 
 - 🔭I am currently working on **THESIS**

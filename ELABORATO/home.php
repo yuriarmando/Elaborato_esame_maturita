@@ -42,11 +42,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 }>
   <h1 class="w3-margin w3-jumbo">THESIS</h1>
   <p class="w3-xlarge">Elaborato esame di Stato - Yuri Armando</p>
-  <button class="w3-button w3-white w3-padding-large w3-large w3-margin-top" id="Loginbutton">Home</button>
+  <button class="w3-button w3-white w3-padding-large w3-large w3-margin-top" id="Loginbutton">LOGIN</button>
 
 <script type="text/javascript">
     document.getElementById("Loginbutton").onclick = function () {
-        location.href = "www.yoursite.com";
+        location.href = "login.html";
     };
 </script>
 </header>

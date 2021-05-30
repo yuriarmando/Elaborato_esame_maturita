@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **HTML, Python, CSS, JS, PHP**
 
-- 👨‍💻 All of my projects are on [My repos](My repos)
-
 - 📫 How to reach me **yuri.armando@itiscuneo.eu**
 
 <h3 align="left">Connect with me:</h3>
